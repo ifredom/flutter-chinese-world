@@ -1,28 +1,29 @@
 # fluttermono
 
-一个全新的可用 flutter-app，UI 参考 Mono.
+a flutter app for Carry forward `Chinese classic traditional culture`.Can be used daily
+（使用flutter制作的app,用于弘扬`中国经典传统文化`.可以日常使用）
 
-## Getting Started
+Blue clothes,you are my heart.
+(青青子衿，悠悠我心)
 
-- 链接设备
+Under the eastern fence of chrysanthemum picking, carefree and leisurely see the South Mountain leisurely
+(采菊东篱下，悠然见南山))
 
-- 执行: `flutter run`
+The ancient style has its own unique Chinese-style art. Here it refers to those beautiful ancient popular cultures in Chinese culture, ancient pop music, ancient Qing poetry ...
+(古风,自有其独特的中国式艺术，此处统指中华文化中那些美好的古代流行文化，古代流行音乐,古代清馆诗词...)
 
-```dash
-# 打包
-1. cd <app dir> (<app dir> 为您的工程目录).
-2. 运行flutter build apk (flutter build 默认会包含 --release选项).
-3. 打包好的发布APK位于<app dir>/build/app/outputs/apk/app-release.apk。
+- Antiquity (风)
+- classical literature (雅)
+- Ancient music(颂)
+
+## Getting Started(如何使用)
+
+```bash
+# connect device(链接设备)
+
+# run (运行)
+> flutter run
+
 ```
 
-## 微信apk安装
-
-1. 通过微信发送的安装包,默认会被加上后缀XXX.1 ,例如：`app-realease.apk.1`
-
-2. 文件保存的系统路径为: `tencent/MicroMsg/Downlond`
-
-3. 通过 `文件管理-手机-找到该路径下面的文件`，然后修改文件名，将微信添加的后缀去掉，将文件名改为: `app-realease.apk`,即可安装
-
-## 项目结构
-
-- router 路由同意管理
+## screenshot(截图)
